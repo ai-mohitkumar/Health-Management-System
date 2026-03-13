@@ -1,0 +1,14 @@
+
+.Downloads/
+.Desktop/
+*.db
+*.pyc
+__pycache__/
+outbox/
+models_artifacts/
+.DS_Store
+Thumbs.db
+ngrok*/
+ngrok.zip
+*.zip
+
